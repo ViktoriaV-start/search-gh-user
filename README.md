@@ -1,3 +1,5 @@
 # Поиск пользователей GitHub
 
-### TypeScript
+### React/ TypeScript
+
+https://viktoriav-start.github.io/search-gh-user/
